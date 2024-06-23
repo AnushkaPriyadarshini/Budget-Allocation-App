@@ -1,5 +1,5 @@
+Welcome to the Budget Allocation App! This app helps you manage and track your expenses, set budget goals, and visualize your spending habits.
 # React + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
